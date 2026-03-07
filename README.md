@@ -23,3 +23,4 @@ PCB (Kicad) :
 CAD images (Fusion 360):
 <img width="856" height="600" alt="image" src="https://github.com/user-attachments/assets/761dc178-6911-4187-bd59-018e52baac21" />
 <img width="816" height="807" alt="Screenshot 2026-03-06 230703" src="https://github.com/user-attachments/assets/6bd25f66-a9d2-4065-b94a-adecac16cb0d" />
+<img width="830" height="532" alt="image" src="https://github.com/user-attachments/assets/b8da7090-6b9c-49a8-8bea-d3b06240d5c0" />
