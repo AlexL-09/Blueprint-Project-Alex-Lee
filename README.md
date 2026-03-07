@@ -1,5 +1,4 @@
 # Blueprint-Project-Alex-Lee
-Repository for project files
 
 
 Project overview and description:
