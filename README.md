@@ -5,6 +5,13 @@ Project overview and description:
 I was new to most of these programs so it took a while to learn, but after starting my 3rd iteration, I got somewhat used to all the features and was able to finish this project.
 I made this macropad to control music. It has mute button, volume up, volume down, previous track, pause, and next track buttons. I had a lot of fun making this although I did occasionally leave it for a few weeks when things got tough. Ultimately, I didn't give up and somehow it works correctly.
 
+
+Inspiration: I wanted to learn how to design my own pcb, while also making a very basic alternative to my elgato stream deck that sadly broke recently.
+
+Features (very basic):
+6 keys
+thats it
+
 BOM:
 1x XIAO RP2040
 6x Cherry MX Switches
