@@ -10,7 +10,7 @@ Inspiration: I wanted to learn how to design my own pcb, while also making a ver
 
 Features (very basic):  
 6 keys<br>
-thats it (i guess i had countersink for screws)
+thats it (I guess I had countersink for screws)
 
 BOM:  
 1x XIAO RP2040  
