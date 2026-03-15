@@ -10,7 +10,7 @@ Inspiration: I wanted to learn how to design my own pcb, while also making a ver
 
 Features (very basic):
 6 keys <n>
-thats it
+</n>thats it
 
 BOM:
 1x XIAO RP2040
