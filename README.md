@@ -8,11 +8,11 @@ I made this macropad to control music. It has mute button, volume up, volume dow
 
 Inspiration: I wanted to learn how to design my own pcb, while also making a very basic alternative to my elgato stream deck that sadly broke recently.
 
-Features (very basic):
+Features (very basic):  
 6 keys<br>
 thats it (i guess i had countersink for screws)
 
-BOM:
+BOM:  
 1x XIAO RP2040  
 6x Cherry MX Switches  
 6x Blank Keycaps  
