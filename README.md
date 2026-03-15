@@ -24,7 +24,7 @@ Schematic (Kicad) :
 <img width="830" height="625" alt="image" src="https://github.com/user-attachments/assets/f11f9c77-b534-4819-8598-aea493a8e7ee" />
 
 PCB (Kicad) :
-<img width="667" height="626" alt="image" src="https://github.com/user-attachments/assets/66a18e93-1ca8-4eed-afe9-0f43d2a85020" />
+
 
 
 CAD images (Fusion 360):
